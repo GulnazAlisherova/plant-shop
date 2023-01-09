@@ -57,3 +57,7 @@ body {
 .navbar i{
   margin: 1rem;
 }
+.btn-1{
+  border: none;
+  color: #156963;
+}
