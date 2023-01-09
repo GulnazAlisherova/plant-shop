@@ -143,3 +143,7 @@ body {
 .btn-4 img {
   display: flex;
 }
+
+.card{
+  border: 1px solid gray;
+}
