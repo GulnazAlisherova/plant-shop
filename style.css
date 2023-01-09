@@ -96,3 +96,7 @@ body {
   line-height: 32px;
   opacity: 0.8;
 }
+.btn-3{
+  border: none;
+  background-color: white;
+}
