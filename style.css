@@ -194,7 +194,9 @@ body {
 }
 .plant{
   background-color: #F3F4F6;
+  margin: 2rem;
 }
 .penalty{
-  margin: 3rem; 
+  margin: 4rem; 
+  align-items: center;
 }
