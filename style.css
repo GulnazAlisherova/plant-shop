@@ -200,3 +200,6 @@ body {
   margin: 4rem; 
   align-items: center;
 }
+.penalty h1{
+  font-weight: 700;
+}
