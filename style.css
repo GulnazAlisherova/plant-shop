@@ -192,7 +192,9 @@ body {
   line-height: 28px;
   margin-bottom: 5rem;
 }
+.plant{
+  background-color: #F3F4F6;
+}
 .penalty{
-  margin: 3rem;
-  background-color: #F9FAFB;
+  margin: 3rem; 
 }
