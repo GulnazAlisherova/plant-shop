@@ -102,7 +102,7 @@ body {
   margin-top: 5rem;
   margin-right: 2rem;
 }
-.btn-3 h3{
+.btn-3 h3 {
   font-weight: 500;
   color: #156963;
   font-size: 32px;
@@ -123,10 +123,10 @@ body {
   border: none;
   background-color: #156963;
   margin-top: 5rem;
-  margin-right: 2rem; 
+  margin-right: 2rem;
   padding: 2rem;
 }
-.btn-4 h3{
+.btn-4 h3 {
   font-weight: 500;
   color: white;
   font-size: 32px;
@@ -135,7 +135,7 @@ body {
 }
 .btn-4 p {
   color: #333333;
-  color: #F2F2F2;
+  color: #f2f2f2;
   font-size: 24px;
   margin-top: -1.5rem;
   line-height: 29px;
@@ -144,70 +144,70 @@ body {
   display: flex;
 }
 
-.card{
+.card {
   border: 1px solid lightgray;
   margin: 8rem 1rem 4rem 1rem;
   padding: 1rem;
 }
-.card h3{ 
-  color:  #156963;
+.card h3 {
+  color: #156963;
   font-weight: 700;
   font-size: 16px;
   line-height: 24px;
-} 
-.card p{
+}
+.card p {
   font-size: 10px;
   font-weight: 400;
   line-height: 18px;
 }
-.flowers{
+.flowers {
   margin: 1rem;
 }
-.flowers h4{
+.flowers h4 {
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
   text-align: center;
 }
-.flowers h3{
+.flowers h3 {
   font-weight: 600;
   font-size: 16px;
   line-height: 20px;
   text-align: center;
 }
 
-.relax{
+.relax {
   margin: 4rem 2rem 4rem 2rem;
 }
-.relax h1{
-  color:  #2C1500;
+.relax h1 {
+  color: #2c1500;
   font-weight: 700;
   font-size: 40px;
   line-height: 56px;
 }
-.relax p{
-  color:  #2C1500;
+.relax p {
+  color: #2c1500;
   font-weight: 400;
   font-size: 16px;
   line-height: 28px;
   margin-bottom: 5rem;
 }
-.plant{
-  background-color: #F3F4F6;
+.plant {
+  background-color: #f3f4f6;
   margin: 2rem;
 }
-.penalty{
-  margin: 6rem 4rem; 
+.penalty {
+  margin: 6rem 4rem;
   align-items: center;
 }
-.penalty h1{
+.penalty h1 {
   font-weight: 700;
   font-size: 40px;
   line-height: 56px;
 }
 
-footer{
-  margin: 5rem 6rem ;
+footer {
+  margin: 5rem 6rem;
 }
 footer li {
   list-style-type: none;
@@ -215,4 +215,8 @@ footer li {
 footer li a {
   text-decoration: none;
   color: #000000;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px; 
 }
