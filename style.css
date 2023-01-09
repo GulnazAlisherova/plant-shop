@@ -160,7 +160,9 @@ body {
   font-weight: 400;
   line-height: 18px;
 }
-
+.flowers{
+  margin: 1rem;
+}
 .flowers h4{
   font-weight: 400;
   font-size: 16px;
