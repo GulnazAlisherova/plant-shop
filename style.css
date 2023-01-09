@@ -118,3 +118,28 @@ body {
 .btn-3 img {
   display: flex;
 }
+
+.btn-4 {
+  border: none;
+  background-color: #156963;
+  margin-top: 5rem;
+  margin-right: 2rem; 
+  padding: 2rem;
+}
+.btn-4 h3{
+  font-weight: 500;
+  color: white;
+  font-size: 32px;
+  margin-top: -2rem;
+  line-height: 40px;
+}
+.btn-4 p {
+  color: #333333;
+  color: #F2F2F2;
+  font-size: 24px;
+  margin-top: -1.5rem;
+  line-height: 29px;
+}
+.btn-4 img {
+  display: flex;
+}
