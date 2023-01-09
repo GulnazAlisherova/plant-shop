@@ -145,7 +145,7 @@ body {
 }
 
 .card{
-  border: 1px solid gray;
+  border: 1px solid lightgray;
   margin: 8rem 1rem 4rem 1rem;
   padding: 1rem;
 }
@@ -154,4 +154,9 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 24px;
+} 
+.card p{
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 18px;
 }
