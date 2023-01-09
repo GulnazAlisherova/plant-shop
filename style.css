@@ -212,3 +212,6 @@ footer{
 footer li {
   list-style-type: none;
 }
+footer li a {
+  text-decoration: none;
+}
