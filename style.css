@@ -54,3 +54,6 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
+.navbar i{
+  margin: 1rem;
+}
