@@ -2,8 +2,8 @@
 
 body {
   margin: 0;
-  position: absolute; 
-  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  font-family: "Montserrat", sans-serif;
 }
 * {
   box-sizing: border-box;
@@ -54,12 +54,20 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
-.navbar i{
+.navbar {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  text-align: end;
+  display: block;
+}
+.navbar i {
   margin: 1rem;
 }
-.btn-1{
+.btn-1 {
   border: none;
   color: #156963;
   background-color: white;
   font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
 }
