@@ -72,7 +72,7 @@ body {
   line-height: 20px;
   margin-right: 1rem;
 }
-.btn-2{
+.btn-2 {
   border: none;
   color: white;
   background-color: #156963;
@@ -82,21 +82,22 @@ body {
   margin-right: 1rem;
   padding: 6px 15px;
 }
-.mantap h1{
+.mantap h1 {
   color: #156963;
   font-size: 68px;
   line-height: 83px;
   font-style: normal;
   font-weight: 500;
 }
-.mantap p{
-  color: #2C1500;
+.mantap p {
+  color: #2c1500;
   font-weight: 400;
   font-size: 18px;
   line-height: 32px;
   opacity: 0.8;
 }
-.btn-3{
+.btn-3 {
   border: none;
   background-color: white;
+  margin-top: 5rem;
 }
