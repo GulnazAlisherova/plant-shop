@@ -80,4 +80,8 @@ body {
   font-size: 14px;
   line-height: 20px;
   margin-right: 1rem;
+  padding: 6px 15px;
+}
+.mantap h1{
+  color: #156963;
 }
