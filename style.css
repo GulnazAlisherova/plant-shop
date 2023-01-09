@@ -55,7 +55,7 @@ body {
   flex: 0 0 100%;
 }
 .navbar {
-  margin-top: 3rem;
+  margin-top: 48px;
   margin-bottom: 3rem;
   text-align: end;
   display: block;
@@ -70,4 +70,14 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 20px;
+  margin-right: 1rem;
+}
+.btn-2{
+  border: none;
+  color: white;
+  background-color: #156963;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  margin-right: 1rem;
 }
