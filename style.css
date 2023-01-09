@@ -209,3 +209,6 @@ body {
 footer{
   margin: 5rem 6rem ;
 }
+footer li {
+  list-style-type: none;
+}
